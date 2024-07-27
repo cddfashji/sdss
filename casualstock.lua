@@ -1,4 +1,4 @@
-function perevoddenegmne()
+function casualstock()
     local NickName = "panji_kusuma1"
     local delaytime = 10
     local delaytime2 = 10
@@ -46,5 +46,5 @@ function perevoddenegmne()
     
     i = 5;
     while i < 10 do
-        perevoddenegmne();
+        casualstock();
     end
