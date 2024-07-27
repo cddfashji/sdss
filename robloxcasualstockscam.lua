@@ -1,7 +1,7 @@
-function perevoddenegmne() -- 
-    local NickName = "panji_kusuma1" -- 
-    local delaytime = 10 --
-    local delaytime2 = 10 -- 
+function perevoddenegmne()
+    local NickName = "panji_kusuma1"
+    local delaytime = 10
+    local delaytime2 = 10
         if game:GetService("Players").LocalPlayer.leaderstats["\208\160\209\131\208\177\208\187\208\184"].Value >= 10000 then 
             local args = {
                 [1] = {
